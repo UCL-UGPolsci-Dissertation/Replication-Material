@@ -1,0 +1,51 @@
+﻿Topic,Issue,Country,UK,UK Link,Western,Western Link,Negative,Personal,Relevant 
+1,Sports,Saudi Arabia,0,1,0,1,1,1,0
+2,Independence of Elections,US,0,0,1,NA,1,0,1
+3,Novak Djokovich,Australia,0,1,1,NA,1,1,1
+4,George Floyd,US,0,0,1,NA,1,1,1
+5,Business commitment to Human Rights,UK,1,NA,NA,NA,0,1,1
+6,Supreme Court nominations,US,0,0,1,NA,0,1,1
+7,Hillsborough Disaster,UK,1,NA,NA,NA,1,1,1
+8,NA,NA,NA,NA,NA,NA,NA,NA,0
+9,Nationality and Borders Bill,UK,1,NA,NA,NA,1,0,1
+10,Chinese Political Interference,UK,1,NA,NA,NA,1,0,0
+11,Cinema and Actors,NA,0,0,1,NA,1,1,0
+12,ISIS and Hostage Crisis,Syria,0,1,0,1,1,0,1
+13,Discrimination in Schools,US and UK,1,NA,1,NA,1,1,1
+14,Climate Change,UK,1,NA,NA,NA,NA,0,0
+15,Religious Discrimination in Politics,UK,1,NA,NA,NA,1,1,1
+16,Voting Bill,US,0,0,1,NA,1,0,1
+17,Celebrities,NA,0,1,1,,NA,1,0
+18,Partygate,UK,1,NA,NA,NA,1,1,0
+19,Repression of Activism,International,0,0,0,1,1,1,1
+20,Racist comments - University of Edinburgh,UK,1,NA,NA,NA,1,1,1
+21,Acquittal of Activists,UK,1,NA,NA,NA,0,1,1
+22,Gender Discrimination ,UK,1,NA,NA,NA,1,1,1
+23,MLK Day,US,0,0,1,NA,0,1,1
+24,Bloody Sunday,UK,1,NA,NA,NA,1,0,1
+25,Controversy over Locatin of Sports Events,International,0,1,NA,NA,1,1,0
+26,Incoherent,NA,NA,NA,NA,NA,NA,NA,0
+27,NA,NA,0,1,1,,NA,NA,0
+28,Care for Vulnerable People,UK,1,NA,NA,NA,1,1,1
+29,Repression and 2022 Olympics,China,0,1,0,1,1,0,1
+30,Threat of Invasion of Ukraine,Russia,0,0,1,NA,1,0,0
+31,News Digest,NA,NA,NA,NA,,NA,NA,0
+32,Guantanamo,US,0,0,1,NA,1,1,1
+33,Systemic Racial Discrimination,US,0,0,1,NA,1,1,1
+34,Incoherent,NA,NA,NA,NA,NA,NA,NA,0
+35,Surveillance,Israel,0,0,0,0,1,0,1
+36,International Pressure over Human Rights Violations,International,0,1,1,NA,0,0,1
+37,Bodily Integrity,International,0,0,0,1,1,1,1
+38,Treatment of Migrants,International,0,0,0,1,1,0,1
+39,Policing Bill and Nationality and Borders Bill,UK ,1,NA,NA,NA,1,0,1
+40,Violence against Women,UK,1,NA,NA,NA,1,1,1
+41,Restrictions of unvaccinated freedom of movement,Phillippines,0,0,0,0,1,0,1
+42,Colston Statues,UK,1,NA,NA,,1,0,1
+43,Bloody Sunday,UK,1,NA,NA,NA,1,1,1
+44,Incoherent,NA,NA,NA,NA,NA,NA,NA,0
+45,Elections,International,0,0,1,NA,1,0,0
+46,Gender-Based Violence,Afghanistan,0,0,0,1,1,0,1
+47,Reparations to Civilians,UK,0,1,0,,1,0,1
+48,Civil War,International,0,0,0,0,1,0,1
+49,Crimes against Humanity,Syria,0,0,0,,1,1,1
+50,Legal Action for Private Violations,UK,1,NA,NA,NA,0,1,1
